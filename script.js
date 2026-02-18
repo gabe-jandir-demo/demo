@@ -1,0 +1,3 @@
+const renderData = () => {
+  // redndering data
+}
